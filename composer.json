@@ -2,7 +2,6 @@
   "name": "phorax/ja-replacer",
   "description": "Replaces string patterns from the page. You can use it to replace URLs for Content Delivery Network (CDN).",
   "type": "typo3-cms-extension",
-  "version": "2.0.0",
   "require": {
     "typo3/cms-core": ">= 7.6.0, <= 8.99.99"
   },
